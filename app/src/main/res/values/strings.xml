@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MessengerReal</string>
+    <string name="messenger_n_the_real_one">Messenger\n(The Real One)</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="login">login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name:</string>
+    <string name="sign_up">sign up</string>
+    <string name="sent_email">Sent email</string>
+    <string name="logout">logout</string>
+    <string name="email_sent">Email sent</string>
+    <string name="your_message">Your message:</string>
+</resources>
